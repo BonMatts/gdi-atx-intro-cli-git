@@ -109,7 +109,7 @@ module.exports = function(grunt) {
 
 		'gh-pages': {
 			options: {
-				base: '../bonmatts.github.io/gdi'
+				base: '.'
 			},
 			src: ['**']
 		}
